@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I am John Muinde
 
-
+## About Me
+I hold an MSc in Data Science from Strathmore University, and I am committed to the art of developing end-to-end data-driven solutions. 
+My interests lie in data science, data engineering, and AI engineering. 
 
 - 🔭 I’m currently working on building an AI powered micro-investment platform for low income earners.
 - 🌱 I’m currently learning AI ingeenering 
