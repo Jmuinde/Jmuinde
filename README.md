@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+
+- 🔭 I’m currently working on building an AI powered micro-investment platform for low income earners.
+- 🌱 I’m currently learning AI ingeenering 
+- 👯 I’m looking to collaborate on any data science, data engneering and AI engneering projects
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: On a good day, I believe I can bench 100kgs 😄. 
 <!--
 **Jmuinde/Jmuinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
